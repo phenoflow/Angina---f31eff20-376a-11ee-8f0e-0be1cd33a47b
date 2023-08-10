@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/angina-pectoris---primary.py
+inputModule3:
+  class: File
+  path: python/angina---primary.py
+inputModule4:
+  class: File
+  path: python/angina-control---primary.py
+inputModule5:
+  class: File
+  path: python/angina-worsening---primary.py
+inputModule6:
+  class: File
+  path: python/unstable-angina---primary.py
+inputModule7:
+  class: File
+  path: python/coronary-angina---primary.py
+inputModule8:
+  class: File
+  path: python/angina-decubitus---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
